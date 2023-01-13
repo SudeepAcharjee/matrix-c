@@ -1,0 +1,12 @@
+C is a general-purpose, procedural computer programming language. It was developed in the early 1970s by Dennis Ritchie at Bell Labs. C was designed to be a small, efficient language that could be used to write operating systems and other low-level system software.
+
+One of the key features of C is its low-level access to memory through pointers. This allows for direct manipulation of memory, which is useful for writing systems-level software such as operating systems and device drivers. C also has a relatively simple syntax, making it easy to learn and use, and it is often used as a teaching language for programming concepts.
+
+C is a compiled language, which means that the source code is converted to machine code by a compiler before it can be executed. This makes C programs fast and efficient, but it also means that the code can only be run on the specific platform for which it was compiled.
+
+C is widely used in a variety of applications, including operating systems, embedded systems, device drivers, compilers, and many other systems-level software. C is also widely used in the development of application software, such as games and productivity tools.
+
+C is also a key language in the realm of open-source software development, and many popular open-source projects are written in C, such as the Linux operating system, the MySQL database, and the git version control system.
+
+C++ is a direct descendant of C and inherits most of its syntax and features, but it adds several new features, such as classes, objects, templates, and exception handling, which make it more suitable for large-scale software development and Object-Oriented programming.
+
